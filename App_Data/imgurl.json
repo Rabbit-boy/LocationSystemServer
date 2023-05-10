@@ -1,0 +1,1785 @@
+﻿{
+  "area": [
+    {
+      "id": 42,
+      "workno": "1",
+      "workname": "丙烷压缩机",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-07-16 16:40:22",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 43,
+      "workno": "2",
+      "workname": "10KV变配电室",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:18:33",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 44,
+      "workno": "3",
+      "workname": "中控楼",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-11 13:34:24",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": 0,
+      "spacing": 0,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": 0,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": null,
+      "layernum": "0",
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 6
+    },
+    {
+      "id": 45,
+      "workno": "4",
+      "workname": "应急库房",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-11 13:34:34",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": 0,
+      "spacing": 0,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": 0,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": null,
+      "layernum": "0",
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 46,
+      "workno": "5",
+      "workname": "脱水脱氢装置区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:19:08",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 6
+    },
+    {
+      "id": 47,
+      "workno": "6",
+      "workname": "凝析油罐",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:19:24",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ea1100",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 48,
+      "workno": "7",
+      "workname": "甲醇罐",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:19:34",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ea1100",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 49,
+      "workno": "8",
+      "workname": "原料水罐",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:19:49",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ea1100",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 50,
+      "workno": "9",
+      "workname": "甲醇回收装置区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:20:37",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 51,
+      "workno": "10",
+      "workname": "渗滤池",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:20:52",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 52,
+      "workno": "11",
+      "workname": "锅炉房",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:21:01",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 53,
+      "workno": "12",
+      "workname": "消防泵房",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:21:14",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 54,
+      "workno": "13",
+      "workname": "进站区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:21:26",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 56,
+      "workno": "15",
+      "workname": "集气区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:21:58",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 57,
+      "workno": "16",
+      "workname": "陕京二线外输区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:22:05",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 58,
+      "workno": "17",
+      "workname": "进站区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:26:03",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 59,
+      "workno": "18",
+      "workname": "进站截断区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:22:32",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ff9800",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 60,
+      "workno": "19",
+      "workname": "装卸车区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 18:20:07",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ea1100",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 62,
+      "workno": "22",
+      "workname": "循环水房/锅炉房辅助间",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 18:48:34",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": 0,
+      "spacing": 0,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": 0,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 7
+    },
+    {
+      "id": 63,
+      "workno": "23",
+      "workname": "工具室",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 18:48:46",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": 0,
+      "spacing": 0,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": 0,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 64,
+      "workno": "24",
+      "workname": "回注间/配电室",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:23:39",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 6
+    },
+    {
+      "id": 65,
+      "workno": "25",
+      "workname": "新回注间",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-10-20 16:54:15",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 66,
+      "workno": "26",
+      "workname": "空氮站",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:23:59",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 67,
+      "workno": "27",
+      "workname": "天然气分液罐",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:24:16",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 68,
+      "workno": "28",
+      "workname": "甲醇储罐/丙烷储罐",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-07-20 16:12:11",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#ea1100",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 69,
+      "workno": "29",
+      "workname": "回注井",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:24:36",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 70,
+      "workno": "30",
+      "workname": "二配机柜间",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-10-20 17:24:42",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 71,
+      "workno": "31",
+      "workname": "回注罐区",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-10-20 17:32:44",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#FCFF00",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 72,
+      "workno": "32",
+      "workname": "发电机房",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-10-20 17:03:45",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 73,
+      "workno": "33",
+      "workname": "教育室",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-10-20 17:30:19",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": null,
+      "spacing": null,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 74,
+      "workno": "35",
+      "workname": "食堂",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": "2022-06-23 19:14:40",
+      "remarks": "",
+      "upperLimit": 15,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": "",
+      "czgLimit": 0,
+      "spacing": 0,
+      "basement": 0,
+      "color": null,
+      "gwbind": null,
+      "areaColor": "#0024ff",
+      "lessLimit": 0,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": "",
+      "type": 0,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 4
+    },
+    {
+      "id": 21,
+      "workno": "999999999",
+      "workname": "厂区道路",
+      "worklevel": "常规区域",
+      "isvalid": 0,
+      "lasttime": null,
+      "remarks": null,
+      "upperLimit": 0,
+      "morelong": 0,
+      "longtype": 0,
+      "moreshort": 0,
+      "shorttype": 0,
+      "morestatic": 0,
+      "workdescribe": null,
+      "czgLimit": 0,
+      "spacing": null,
+      "basement": null,
+      "color": null,
+      "gwbind": null,
+      "areaColor": null,
+      "lessLimit": null,
+      "leavetime": null,
+      "offlineTime": null,
+      "lineControl": 0,
+      "work3Durl": null,
+      "type": null,
+      "layernum": null,
+      "layerm": "1,",
+      "shopimgnum": 0,
+      "pointtype": 412
+    }
+  ],
+  "outjo": {},
+  "visitorc": null,
+  "img": {
+    "id": 4,
+    "picNo": "uploadImages/7702975773049725462",
+    "picName": "uploadImages/7702975773049725462.jpg",
+    "picH": 4539,
+    "picW": 7671,
+    "picAddr": "uploadImages/7702975773049725462.jpg",
+    "picLevel": "",
+    "lasttime": 1653637884000,
+    "remarks": "",
+    "labelFactoryCode": "",
+    "threefilename": null,
+    "threesize": null,
+    "basementimg": null,
+    "minPicAddr": "uploadImages/5625861550127098308.png",
+    "subPicAddr": null
+  },
+  "areastr": "null",
+  "areaimg": [],
+  "areajo": {
+    "area59": [
+      {
+        "x": 4283.3402857142855,
+        "y": 3189.7709443255167,
+        "order": 1
+      },
+      {
+        "x": 7456.2119999999995,
+        "y": 1988.4836710714803,
+        "order": 2
+      },
+      {
+        "x": 7576.7868534156505,
+        "y": 2238.0450834260287,
+        "order": 3
+      },
+      {
+        "x": 4355.0824,
+        "y": 3436.778927714916,
+        "order": 4
+      }
+    ],
+    "area58": [
+      {
+        "x": 5557.537923218734,
+        "y": 1758.8324536628418,
+        "order": 1
+      },
+      {
+        "x": 7024.64236287008,
+        "y": 1210.1863371579875,
+        "order": 2
+      },
+      {
+        "x": 7353.790394769139,
+        "y": 1849.5323300970874,
+        "order": 3
+      },
+      {
+        "x": 5796.186271079336,
+        "y": 2423.8580494263015,
+        "order": 4
+      }
+    ],
+    "area53": [
+      {
+        "x": 3164.6445510995986,
+        "y": 2820.0690820829655,
+        "order": 1
+      },
+      {
+        "x": 3556.2890447516443,
+        "y": 2733.1750750220654,
+        "order": 2
+      },
+      {
+        "x": 3661.5715457047513,
+        "y": 3083.8358605472195,
+        "order": 3
+      },
+      {
+        "x": 3270.5680414040185,
+        "y": 3195.327802294793,
+        "order": 4
+      }
+    ],
+    "area74": [
+      {
+        "x": 594.2335081196611,
+        "y": 3665.255679442509,
+        "order": 1
+      },
+      {
+        "x": 1119.4068764560755,
+        "y": 3506.3643205574913,
+        "order": 2
+      },
+      {
+        "x": 1170.2794221742688,
+        "y": 3679.173170731707,
+        "order": 3
+      },
+      {
+        "x": 642.7864766237606,
+        "y": 3833.8471080139375,
+        "order": 4
+      }
+    ],
+    "area52": [
+      {
+        "x": 3129.9531444358163,
+        "y": 2145.824111498258,
+        "order": 1
+      },
+      {
+        "x": 3416.2100597205713,
+        "y": 2125.896794425087,
+        "order": 2
+      },
+      {
+        "x": 3429.6003463655666,
+        "y": 2406.987944250871,
+        "order": 3
+      },
+      {
+        "x": 3138.4406883328415,
+        "y": 2419.6402090592337,
+        "order": 4
+      }
+    ],
+    "area73": [
+      {
+        "x": 2856.9296006350564,
+        "y": 2941.2559752868488,
+        "order": 4
+      },
+      {
+        "x": 2363.754616489475,
+        "y": 3079.7194076655055,
+        "order": 5
+      },
+      {
+        "x": 2302.3936880806777,
+        "y": 2866.9013062665495,
+        "order": 6
+      },
+      {
+        "x": 2789.6257187472256,
+        "y": 2733.5356310679617,
+        "order": 7
+      }
+    ],
+    "area51": [
+      {
+        "x": 3343.5243465326425,
+        "y": 991.8443853820597,
+        "order": 1
+      },
+      {
+        "x": 3549.4127017410506,
+        "y": 953.9942524916943,
+        "order": 2
+      },
+      {
+        "x": 3571.831209168529,
+        "y": 1316.812657807309,
+        "order": 3
+      },
+      {
+        "x": 3358.7548571840457,
+        "y": 1330.987607973422,
+        "order": 4
+      }
+    ],
+    "area72": [
+      {
+        "x": 5135.346172244102,
+        "y": 1367.983222591362,
+        "order": 1
+      },
+      {
+        "x": 5267.846588340138,
+        "y": 1358.1813953488372,
+        "order": 2
+      },
+      {
+        "x": 5272.672096665335,
+        "y": 1462.8347508305649,
+        "order": 3
+      },
+      {
+        "x": 5149.06871154388,
+        "y": 1469.469833887043,
+        "order": 4
+      }
+    ],
+    "area50": [
+      {
+        "x": 2269.6231074948164,
+        "y": 2228.236363636364,
+        "order": 1
+      },
+      {
+        "x": 2764.567015552089,
+        "y": 2205.5533449477352,
+        "order": 2
+      },
+      {
+        "x": 2772.3724571428575,
+        "y": 2440.3453620692426,
+        "order": 3
+      },
+      {
+        "x": 2279.398195102335,
+        "y": 2448.896663724625,
+        "order": 4
+      }
+    ],
+    "area57": [
+      {
+        "x": 5601.4056319491965,
+        "y": 624.1225154457193,
+        "order": 1
+      },
+      {
+        "x": 6650.172542857143,
+        "y": 326.202498028296,
+        "order": 2
+      },
+      {
+        "x": 6907.100940573117,
+        "y": 910.3238923212709,
+        "order": 3
+      },
+      {
+        "x": 5867.296027240585,
+        "y": 1298.84306266549,
+        "order": 4
+      }
+    ],
+    "area56": [
+      {
+        "x": 4684.597054518215,
+        "y": 1841.3789895470386,
+        "order": 1
+      },
+      {
+        "x": 5327.502869766397,
+        "y": 1823.4521094439542,
+        "order": 2
+      },
+      {
+        "x": 5497.244862360886,
+        "y": 2548.209823477494,
+        "order": 3
+      },
+      {
+        "x": 4722.008303782661,
+        "y": 2579.9788172992057,
+        "order": 4
+      }
+    ],
+    "area54": [
+      {
+        "x": 4153.006342857143,
+        "y": 2232.13100162565,
+        "order": 1
+      },
+      {
+        "x": 4537.620207407001,
+        "y": 2213.355574912892,
+        "order": 2
+      },
+      {
+        "x": 4541.378114285714,
+        "y": 2590.7711052809477,
+        "order": 3
+      },
+      {
+        "x": 4158.266457142857,
+        "y": 2599.2457950393537,
+        "order": 4
+      }
+    ],
+    "area71": [
+      {
+        "x": 3325.172321768967,
+        "y": 1603.1523654015887,
+        "order": 1
+      },
+      {
+        "x": 3551.721995623541,
+        "y": 1596.2617387466903,
+        "order": 2
+      },
+      {
+        "x": 3568.347656923214,
+        "y": 1969.196875551633,
+        "order": 3
+      },
+      {
+        "x": 3327.4558463330186,
+        "y": 1976.8486760812004,
+        "order": 4
+      }
+    ],
+    "area70": [
+      {
+        "x": 5130.973055324391,
+        "y": 1471.932857142857,
+        "order": 4
+      },
+      {
+        "x": 4665.0601733842705,
+        "y": 1492.139700996678,
+        "order": 5
+      },
+      {
+        "x": 4666.92000471794,
+        "y": 1386.3302325581396,
+        "order": 6
+      },
+      {
+        "x": 5115.4409504026635,
+        "y": 1369.4409302325582,
+        "order": 7
+      }
+    ],
+    "area49": [
+      {
+        "x": 2288.044931819224,
+        "y": 1739.899734219269,
+        "order": 1
+      },
+      {
+        "x": 2722.541743933844,
+        "y": 1721.0500664451827,
+        "order": 2
+      },
+      {
+        "x": 2738.878100243105,
+        "y": 2086.582823920266,
+        "order": 3
+      },
+      {
+        "x": 2302.873316776861,
+        "y": 2108.2976411960135,
+        "order": 4
+      }
+    ],
+    "area48": [
+      {
+        "x": 2164.793406679816,
+        "y": 1130.376877076412,
+        "order": 1
+      },
+      {
+        "x": 3035.7473936661668,
+        "y": 1090.7674418604652,
+        "order": 2
+      },
+      {
+        "x": 3048.715947290134,
+        "y": 1336.3157807308971,
+        "order": 3
+      },
+      {
+        "x": 2179.9736516194985,
+        "y": 1355.7686378737542,
+        "order": 4
+      }
+    ],
+    "area69": [
+      {
+        "x": 4022.8322188700517,
+        "y": 1209.6092334494772,
+        "order": 1
+      },
+      {
+        "x": 4170.8634192604,
+        "y": 1184.4101393728222,
+        "order": 2
+      },
+      {
+        "x": 4198.382039845785,
+        "y": 1297.9642160278745,
+        "order": 3
+      },
+      {
+        "x": 4052.670416669531,
+        "y": 1328.9622648083623,
+        "order": 4
+      }
+    ],
+    "area47": [
+      {
+        "x": 1527.67551061864,
+        "y": 1160.6871428571428,
+        "order": 1
+      },
+      {
+        "x": 1927.2879187990227,
+        "y": 1141.5358803986712,
+        "order": 2
+      },
+      {
+        "x": 1938.597703936203,
+        "y": 1375.4728239202657,
+        "order": 3
+      },
+      {
+        "x": 1539.7895471433533,
+        "y": 1395.5288704318937,
+        "order": 4
+      }
+    ],
+    "area42": [
+      {
+        "x": 1042.711923936334,
+        "y": 2490.4683720930234,
+        "order": 1
+      },
+      {
+        "x": 1026.7274276091189,
+        "y": 2045.6162126245847,
+        "order": 2
+      },
+      {
+        "x": 726.3898000773218,
+        "y": 2059.187973421927,
+        "order": 3
+      },
+      {
+        "x": 738.4033051785938,
+        "y": 2494.3891029900333,
+        "order": 4
+      }
+    ],
+    "area64": [
+      {
+        "x": 3628.921150622262,
+        "y": 1826.096187113857,
+        "order": 1
+      },
+      {
+        "x": 3774.637456962017,
+        "y": 1823.1386411149824,
+        "order": 2
+      },
+      {
+        "x": 3788.4494849186663,
+        "y": 2312.9394425087107,
+        "order": 3
+      },
+      {
+        "x": 3593.8269836378927,
+        "y": 2317.3337687555168,
+        "order": 4
+      },
+      {
+        "x": 3591.383211736013,
+        "y": 2239.413601059135,
+        "order": 5
+      },
+      {
+        "x": 3644.0645240470235,
+        "y": 2230.68013239188,
+        "order": 6
+      }
+    ],
+    "area63": [
+      {
+        "x": 3592.304633928525,
+        "y": 2333.078049426302,
+        "order": 1
+      },
+      {
+        "x": 3788.3440495907525,
+        "y": 2326.698780487805,
+        "order": 2
+      },
+      {
+        "x": 3786.2840363695236,
+        "y": 2392.3694880847306,
+        "order": 3
+      },
+      {
+        "x": 3597.0319303944557,
+        "y": 2398.418817299206,
+        "order": 4
+      }
+    ],
+    "area62": [
+      {
+        "x": 2978.677515550008,
+        "y": 1632.0769726390115,
+        "order": 1
+      },
+      {
+        "x": 3087.6208602786046,
+        "y": 1548.8480836236936,
+        "order": 2
+      },
+      {
+        "x": 3194.8912361146654,
+        "y": 1553.1953221535746,
+        "order": 3
+      },
+      {
+        "x": 3212.0377012622794,
+        "y": 2125.4778905560456,
+        "order": 4
+      },
+      {
+        "x": 3116.1938341431232,
+        "y": 2136.6512195121954,
+        "order": 5
+      },
+      {
+        "x": 3122.941695129578,
+        "y": 2414.684738675958,
+        "order": 6
+      },
+      {
+        "x": 3000.1622557744777,
+        "y": 2418.744006968641,
+        "order": 7
+      }
+    ],
+    "area68": [
+      {
+        "x": 371.06148392296654,
+        "y": 2279.703953488372,
+        "order": 1
+      },
+      {
+        "x": 627.4668794107818,
+        "y": 2261.306677740864,
+        "order": 2
+      },
+      {
+        "x": 627.9192708162691,
+        "y": 2409.2891362126247,
+        "order": 3
+      },
+      {
+        "x": 372.1673295808243,
+        "y": 2427.9880066445185,
+        "order": 4
+      }
+    ],
+    "area46": [
+      {
+        "x": 2027.5548857142853,
+        "y": 2469.7145455423392,
+        "order": 1
+      },
+      {
+        "x": 1996.5055999999997,
+        "y": 1636.272642405318,
+        "order": 2
+      },
+      {
+        "x": 1497.6714285714286,
+        "y": 1651.7608685155083,
+        "order": 3
+      },
+      {
+        "x": 1509.359436743614,
+        "y": 2018.7742857142857,
+        "order": 4
+      },
+      {
+        "x": 1161.3174193016337,
+        "y": 2037.6472473867595,
+        "order": 5
+      },
+      {
+        "x": 1172.3479714285713,
+        "y": 2513.1108017190045,
+        "order": 6
+      }
+    ],
+    "area67": [
+      {
+        "x": 368.64872976036804,
+        "y": 2081.556245847176,
+        "order": 1
+      },
+      {
+        "x": 557.6478058305867,
+        "y": 2086.582823920266,
+        "order": 2
+      },
+      {
+        "x": 561.1664056510429,
+        "y": 2234.4647508305648,
+        "order": 3
+      },
+      {
+        "x": 370.7633306073081,
+        "y": 2241.665017421603,
+        "order": 4
+      }
+    ],
+    "area45": [
+      {
+        "x": 2588.120994289092,
+        "y": 3228.4362369337978,
+        "order": 1
+      },
+      {
+        "x": 2926.9901382026105,
+        "y": 3126.480069686411,
+        "order": 2
+      },
+      {
+        "x": 2972.6436351890925,
+        "y": 3300.712299651568,
+        "order": 3
+      },
+      {
+        "x": 2640.891375909725,
+        "y": 3406.6222996515685,
+        "order": 4
+      }
+    ],
+    "area66": [
+      {
+        "x": 3622.5997141109606,
+        "y": 2837.1122299651565,
+        "order": 1
+      },
+      {
+        "x": 3840.567822058815,
+        "y": 2780.167546337158,
+        "order": 2
+      },
+      {
+        "x": 3908.2322604567603,
+        "y": 3009.120635481024,
+        "order": 3
+      },
+      {
+        "x": 3697.266640205976,
+        "y": 3067.8912709620477,
+        "order": 4
+      }
+    ],
+    "area44": [
+      {
+        "x": 1267.5962298382942,
+        "y": 3041.340871080139,
+        "order": 1
+      },
+      {
+        "x": 1950.922590044739,
+        "y": 2842.2785714285715,
+        "order": 2
+      },
+      {
+        "x": 2023.2512249932997,
+        "y": 3102.5989198606267,
+        "order": 3
+      },
+      {
+        "x": 1494.9675144834412,
+        "y": 3259.4870034843207,
+        "order": 4
+      },
+      {
+        "x": 1578.4195765268607,
+        "y": 3559.451114982579,
+        "order": 5
+      },
+      {
+        "x": 1434.184047941393,
+        "y": 3608.373205574913,
+        "order": 6
+      }
+    ],
+    "area43": [
+      {
+        "x": 589.5416360275169,
+        "y": 2913.183972125436,
+        "order": 1
+      },
+      {
+        "x": 883.1790242662067,
+        "y": 2829.942613240418,
+        "order": 2
+      },
+      {
+        "x": 926.9490285714285,
+        "y": 2999.236540102046,
+        "order": 3
+      },
+      {
+        "x": 640.9940760492335,
+        "y": 3090.4738327526134,
+        "order": 4
+      }
+    ],
+    "area65": [
+      {
+        "x": 3590.902469722528,
+        "y": 1539.9348720211826,
+        "order": 1
+      },
+      {
+        "x": 3762.775982571765,
+        "y": 1533.2963414634148,
+        "order": 2
+      },
+      {
+        "x": 3766.677089704559,
+        "y": 1766.0452961672474,
+        "order": 3
+      },
+      {
+        "x": 3596.3508792086864,
+        "y": 1767.7261694616063,
+        "order": 4
+      }
+    ],
+    "area60": [
+      {
+        "x": 404.9770945151913,
+        "y": 1183.6720905923346,
+        "order": 1
+      },
+      {
+        "x": 643.4718062551972,
+        "y": 1171.9160278745644,
+        "order": 2
+      },
+      {
+        "x": 665.3496367972182,
+        "y": 1531.3457839721257,
+        "order": 3
+      },
+      {
+        "x": 406.664059761805,
+        "y": 1543.1018466898954,
+        "order": 4
+      }
+    ]
+  },
+  "areanoone": [],
+  "colorset": {
+    "cbscs": "#1E90FF",
+    "mrcs": "#FF0000",
+    "fkcs": "#FFFEF6"
+  },
+  "visitor": null
+}

@@ -1,0 +1,26 @@
+﻿{
+  "data": [
+    {
+      "id": 274,
+      "cardtype": 2,
+      "type": 1,
+      "typeid": 0,
+      "color": "#FFFEF6"
+    },
+    {
+      "id": 275,
+      "cardtype": 1,
+      "type": 1,
+      "typeid": 0,
+      "color": "#FF0000"
+    },
+    {
+      "id": 276,
+      "cardtype": 3,
+      "type": 1,
+      "typeid": 0,
+      "color": "#1E90FF"
+    }
+  ],
+  "state": 100
+}

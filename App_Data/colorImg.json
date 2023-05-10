@@ -1,0 +1,23 @@
+﻿{
+  "isOk": true,
+  "msg": null,
+  "cause": null,
+  "code": "200",
+  "data": [
+    {
+      "code": "000000",
+      "description": "上传文件到本地成功",
+      "resultMap": {
+        "result": "0",
+        "bucketName": "uploadEmpColorImg/",
+        "fileName": "808080.png",
+        "objectName": "uploadEmpColorImg/808080.png",
+        "objectKeyInfo": "uploadEmpColorImg/808080.png",
+        "url": "uploadEmpColorImg/808080.png"
+      },
+      "useDateFormat": false,
+      "dateFormat": "yyyy-MM-dd HH:mm:ss",
+      "success": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "total": 1,
+  "rows": [
+    {
+      "id": 2,
+      "mainres": "laya2.0/3D/testyan/Conventional/SampleScene.lh",
+      "empsp3d": "http://klxffileinfo.oss-cn-hangzhou.aliyuncs.com/Laya_all/lowEmpRes/Conventional/empRes.lh",
+      "carsp3d": "http://klxffileinfo.oss-cn-hangzhou.aliyuncs.com/Laya_all/car/Conventional/car.lh",
+      "skybox": "http://klxffileinfo.oss-cn-hangzhou.aliyuncs.com/Laya_all/skyBox2/SkyBox.lmat",
+      "firstPerspective": 0.2,
+      "centerPointDistance": 120,
+      "mainspx": 76.71,
+      "mainspz": -45.39,
+      "groundfloorheight": 0,
+      "howheight": 5,
+      "areaheight": 11,
+      "showdefault": "1",
+      "has3D": 0,
+      "urlsModel": "/榆林天然气有限公司大数据3Dtiles调整6-21/榆林3dtiles6-21/tileset.json",
+      "headerImgs": "/榆林天然气有限公司大数据3Dtiles调整6-21/榆林天然气处理厂人员智能管理系统.png",
+      "viewModelheight": "0.1",
+      "imageryProvider": "http://10.78.164.100:8000/googlemaps/satellite_en",
+      "TK": "ab665f635ffb3c98d4ee122131d4514e",
+      "polymerization": "2",
+      "networkState": 1,
+      "mapInitSize": 5,
+      "maxZoom": 8,
+      "jobBaseUrl": "",
+      "threeurl": "",
+      "threedeviceno": "",
+      "trainurl": "",
+      "traindeviceno": "",
+      "certificateurl": "",
+      "certificatedeviceno": "",
+      "jumppatrolurl": null,
+      "imgAngle": 0,
+      "pointButton": null
+    }
+  ]
+}

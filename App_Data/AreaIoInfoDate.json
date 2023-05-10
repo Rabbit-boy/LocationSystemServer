@@ -1,0 +1,513 @@
+{
+  "msg": null,
+  "area": 4,
+  "code": "200",
+  "data": [
+    {
+      "id": 108860,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 16:16:16",
+      "endTime": "2023-05-09 23:59:59",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103845,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 16:16:16",
+          "endTime": "2023-05-09 23:59:59",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108856,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 16:05:20",
+      "endTime": "2023-05-09 16:16:14",
+      "areaId": 58,
+      "workname": "进站区",
+      "list": [
+        {
+          "id": 103841,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 16:05:20",
+          "endTime": "2023-05-09 16:16:16",
+          "areaId": 58,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108855,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 16:04:40",
+      "endTime": "2023-05-09 16:05:18",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103840,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 16:04:40",
+          "endTime": "2023-05-09 16:05:20",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108850,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 15:54:02",
+      "endTime": "2023-05-09 16:04:38",
+      "areaId": 58,
+      "workname": "进站区",
+      "list": [
+        {
+          "id": 103835,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 15:54:02",
+          "endTime": "2023-05-09 16:04:40",
+          "areaId": 58,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108840,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 15:42:32",
+      "endTime": "2023-05-09 15:54:00",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103825,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 15:42:32",
+          "endTime": "2023-05-09 15:54:02",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108837,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 15:41:26",
+      "endTime": "2023-05-09 15:42:30",
+      "areaId": 44,
+      "workname": "中控楼",
+      "list": [
+        {
+          "id": 103822,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 15:41:26",
+          "endTime": "2023-05-09 15:42:32",
+          "areaId": 44,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108834,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 15:38:54",
+      "endTime": "2023-05-09 15:41:24",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103819,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 15:38:54",
+          "endTime": "2023-05-09 15:41:26",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108833,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 15:37:48",
+      "endTime": "2023-05-09 15:38:52",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103818,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 15:37:48",
+          "endTime": "2023-05-09 15:38:54",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108797,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:49:50",
+      "endTime": "2023-05-09 15:37:46",
+      "areaId": 58,
+      "workname": "进站区",
+      "list": [
+        {
+          "id": 103782,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:49:50",
+          "endTime": "2023-05-09 15:37:48",
+          "areaId": 58,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108793,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:45:20",
+      "endTime": "2023-05-09 14:49:48",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103778,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:45:20",
+          "endTime": "2023-05-09 14:49:50",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108790,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:43:14",
+      "endTime": "2023-05-09 14:45:18",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103775,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:43:14",
+          "endTime": "2023-05-09 14:45:20",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108788,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:38:34",
+      "endTime": "2023-05-09 14:43:12",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103773,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:38:34",
+          "endTime": "2023-05-09 14:43:14",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108781,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:33:04",
+      "endTime": "2023-05-09 14:38:32",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103766,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:33:04",
+          "endTime": "2023-05-09 14:38:34",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108776,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:25:32",
+      "endTime": "2023-05-09 14:33:02",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103761,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:25:32",
+          "endTime": "2023-05-09 14:33:04",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108773,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:20:40",
+      "endTime": "2023-05-09 14:25:30",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103758,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:20:40",
+          "endTime": "2023-05-09 14:25:32",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108770,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:19:24",
+      "endTime": "2023-05-09 14:20:38",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103755,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:19:24",
+          "endTime": "2023-05-09 14:20:40",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108766,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:17:20",
+      "endTime": "2023-05-09 14:19:22",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103751,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:17:20",
+          "endTime": "2023-05-09 14:19:24",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108758,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 14:13:08",
+      "endTime": "2023-05-09 14:17:18",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103743,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 14:13:08",
+          "endTime": "2023-05-09 14:17:20",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108725,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 13:25:52",
+      "endTime": "2023-05-09 14:13:06",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103710,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 13:25:52",
+          "endTime": "2023-05-09 14:13:08",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108719,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 13:20:28",
+      "endTime": "2023-05-09 13:25:50",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103704,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 13:20:28",
+          "endTime": "2023-05-09 13:25:52",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108684,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 11:37:54",
+      "endTime": "2023-05-09 11:51:38",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103669,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 11:37:54",
+          "endTime": "2023-05-09 11:51:38",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108654,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 10:49:56",
+      "endTime": "2023-05-09 11:37:52",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103639,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 10:49:56",
+          "endTime": "2023-05-09 11:37:54",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108650,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 10:45:26",
+      "endTime": "2023-05-09 10:49:54",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103635,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 10:45:26",
+          "endTime": "2023-05-09 10:49:56",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108601,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 10:10:46",
+      "endTime": "2023-05-09 10:45:24",
+      "areaId": 56,
+      "workname": "集气区",
+      "list": [
+        {
+          "id": 103586,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 10:10:46",
+          "endTime": "2023-05-09 10:45:26",
+          "areaId": 56,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108599,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 10:07:50",
+      "endTime": "2023-05-09 10:10:44",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103584,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 10:07:50",
+          "endTime": "2023-05-09 10:10:46",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108597,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 10:06:44",
+      "endTime": "2023-05-09 10:07:48",
+      "areaId": 44,
+      "workname": "中控楼",
+      "list": [
+        {
+          "id": 103582,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 10:06:44",
+          "endTime": "2023-05-09 10:07:50",
+          "areaId": 44,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 108426,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-05-09 00:00:00",
+      "endTime": "2023-05-09 10:06:42",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 103411,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-05-09 00:00:00",
+          "endTime": "2023-05-09 10:06:44",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    },
+    {
+      "id": 79012,
+      "deviceNo": "1602d6ce",
+      "startTime": "2023-03-16 00:00:00",
+      "endTime": "2023-05-10 11:25:45",
+      "areaId": 0,
+      "workname": "其它区域",
+      "list": [
+        {
+          "id": 73997,
+          "deviceNo": "1602d6ce",
+          "startTime": "2023-03-16 00:00:00",
+          "endTime": "2023-05-10 11:25:45",
+          "areaId": 0,
+          "floor": 1
+        }
+      ]
+    }
+  ],
+  "isOk": true,
+  "num": "1353.93"
+}

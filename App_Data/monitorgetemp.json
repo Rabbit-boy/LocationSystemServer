@@ -1,0 +1,578 @@
+[
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e953",
+    "time": 1683659031897,
+    "locatornum": "93929"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cd0d",
+    "time": 1683681133851,
+    "locatornum": "93973"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16033ecb",
+    "time": 1683682309852,
+    "locatornum": "93814"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1609bcf7",
+    "time": 1683681135717,
+    "locatornum": "93779"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160343e9",
+    "time": 1683652955790,
+    "locatornum": "93828"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602d33f",
+    "time": 1683682451747,
+    "locatornum": "93992"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034be2",
+    "time": 1683664482593,
+    "locatornum": "93871"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160352c2",
+    "time": 1683681273852,
+    "locatornum": "93826"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034188",
+    "time": 1683682179760,
+    "locatornum": "93830"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cb0b",
+    "time": 1683682023848,
+    "locatornum": "94003"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1603457d",
+    "time": 1683681021148,
+    "locatornum": "93752"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cb2d",
+    "time": 1683655725837,
+    "locatornum": "93685"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602d5d5",
+    "time": 1683679743725,
+    "locatornum": "94008"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e771",
+    "time": 1683681867842,
+    "locatornum": "93853"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602dc01",
+    "time": 1683659298548,
+    "locatornum": "93978"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160349ea",
+    "time": 1683679881779,
+    "locatornum": "93995"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16033090",
+    "time": 1683682031806,
+    "locatornum": "93922"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1603276c",
+    "time": 1683682445752,
+    "locatornum": "93863"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034bef",
+    "time": 1683653106511,
+    "locatornum": "93892"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602d15b",
+    "time": 1683677949791,
+    "locatornum": "93815"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602f435",
+    "time": 1683658391841,
+    "locatornum": "93354"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cd4b",
+    "time": 1683682027936,
+    "locatornum": "93998"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cf0a",
+    "time": 1683678229873,
+    "locatornum": "93964"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602d6ce",
+    "time": 1683682315980,
+    "locatornum": "93747"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e542",
+    "time": 1683681719836,
+    "locatornum": "93734"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e935",
+    "time": 1683682447787,
+    "locatornum": "93722"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160341f4",
+    "time": 1683656673814,
+    "locatornum": "93879"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160330c3",
+    "time": 1683675645803,
+    "locatornum": "93172"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602c50e",
+    "time": 1683680991864,
+    "locatornum": "93993"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16035126",
+    "time": 1683678719711,
+    "locatornum": "93977"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16033bc3",
+    "time": 1683681715855,
+    "locatornum": "93990"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034ed5",
+    "time": 1683681561771,
+    "locatornum": "93933"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16032ecc",
+    "time": 1683680993843,
+    "locatornum": "93808"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160347fa",
+    "time": 1683681867772,
+    "locatornum": "93894"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034ba2",
+    "time": 1683682031845,
+    "locatornum": "93741"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e714",
+    "time": 1683650976721,
+    "locatornum": "93980"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "160330fa",
+    "time": 1683656508452,
+    "locatornum": "93963"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1609bec1",
+    "time": 1683682313862,
+    "locatornum": "93780"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602c92a",
+    "time": 1683682313736,
+    "locatornum": "93844"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16026a2f",
+    "time": 1683682309756,
+    "locatornum": "93738"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16032e8d",
+    "time": 1683670845724,
+    "locatornum": "93829"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16030492",
+    "time": 1683681135762,
+    "locatornum": "93944"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e21a",
+    "time": 1683680857842,
+    "locatornum": "93882"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602758f",
+    "time": 1683657505437,
+    "locatornum": "93799"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034d17",
+    "time": 1683682459723,
+    "locatornum": "93975"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602d325",
+    "time": 1683682173755,
+    "locatornum": "93818"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602ebb2",
+    "time": 1683672687784,
+    "locatornum": "93891"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1609b9cb",
+    "time": 1683681711716,
+    "locatornum": "93766"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16027a12",
+    "time": 1683681125707,
+    "locatornum": "93809"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602efc0",
+    "time": 1683682459874,
+    "locatornum": "93984"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602f71c",
+    "time": 1683680019752,
+    "locatornum": "93866"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602f44a",
+    "time": 1683682459918,
+    "locatornum": "93951"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602dc5f",
+    "time": 1683673553842,
+    "locatornum": "93740"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602edd9",
+    "time": 1683681873795,
+    "locatornum": "93966"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602c70d",
+    "time": 1683682449760,
+    "locatornum": "93876"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cd32",
+    "time": 1683673711705,
+    "locatornum": "93810"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602d318",
+    "time": 1683660429853,
+    "locatornum": "93861"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602cd2e",
+    "time": 1683682175759,
+    "locatornum": "94012"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16032776",
+    "time": 1683668386015,
+    "locatornum": "93937"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602e53a",
+    "time": 1683682453797,
+    "locatornum": "94005"
+  },
+  {
+    "empname": null,
+    "specifictype": "访客",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16033e8f",
+    "time": 1683681559771,
+    "locatornum": "93727"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16031e5b",
+    "time": 1683656999931,
+    "locatornum": "93979"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "1602dc03",
+    "time": 1683654030303,
+    "locatornum": "93733"
+  },
+  {
+    "empname": null,
+    "specifictype": "承包商",
+    "idcard": null,
+    "num": 1,
+    "deviceno": "16034387",
+    "time": 1683681275976,
+    "locatornum": "94000"
+  }
+]
